@@ -239,6 +239,46 @@
             <role>Committer</role>
          </roles>
       </developer>
+      <developer>
+         <name>Alexandru Popescu</name>
+         <id>apopescu</id>
+         <email>apopescu at apache.org</email>
+         <roles>
+            <role>Committer</role>
+         </roles>
+      </developer>
+      <developer>
+         <name>Rene Gielen</name>
+         <id>rgielen</id>
+         <email>rgielen at apache.org</email>
+         <roles>
+            <role>Committer</role>
+         </roles>
+      </developer>
+      <developer>
+         <name>Rainer Hermanns</name>
+         <id>hermanns</id>
+         <email>hermanns at apache.org</email>
+         <roles>
+            <role>Committer</role>
+         </roles>
+      </developer>
+      <developer>
+         <name>Toby Jee</name>
+         <id>tmjee</id>
+         <email>tmjee at apache.org</email>
+         <roles>
+            <role>Committer</role>
+         </roles>
+      </developer>
+      <developer>
+         <name>Ian Roughley</name>
+         <id>roughley</id>
+         <email>roughley at apache.org</email>
+         <roles>
+            <role>Committer</role>
+         </roles>
+      </developer>
    </developers>
    <distributionManagement>
       <repository>
