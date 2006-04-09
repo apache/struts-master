@@ -282,9 +282,9 @@
    </developers>
    <distributionManagement>
       <repository>
-         <id>apache-maven-test-builds</id>
-         <name>Apache Maven Repository (Test Builds)</name>
-         <url>scp://people.apache.org/www/cvs.apache.org/maven-snapshot-repository</url>
+         <id>apache-maven-releases</id>
+         <name>Apache Maven Repository (Releases)</name>
+         <url>scp://people.apache.org/www/www.apache.org/dist/maven-repository</url>
       </repository>
       <snapshotRepository>
          <uniqueVersion>false</uniqueVersion>
