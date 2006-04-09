@@ -182,7 +182,6 @@
          <roles>
             <role>PMC Member</role>
          </roles>
-         <timezone>-7</timezone>
       </developer>
       <developer>
          <name>Gary VanMatre</name>
@@ -241,7 +240,24 @@
          </roles>
       </developer>
    </developers>
-
+   <distributionManagement>
+      <repository>
+         <id>apache-maven-test-builds</id>
+         <name>Apache Maven Repository (Test Builds)</name>
+         <url>scp://people.apache.org/www/cvs.apache.org/maven-snapshot-repository</url>
+      </repository>
+      <snapshotRepository>
+         <uniqueVersion>false</uniqueVersion>
+         <id>apache-maven-snapshots</id>
+         <name>Apache Maven Repository (Snapshots)</name>
+         <url>scp://people.apache.org/www/cvs.apache.org/maven-snapshot-repository</url>
+      </snapshotRepository>
+      <site>
+         <id>apache-site</id>
+         <name>Apache Struts Website</name>
+         <url>scp://people.apache.org/www/struts.apache.org</url>
+      </site>
+   </distributionManagement>
 </project>
 
 
