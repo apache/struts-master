@@ -274,6 +274,46 @@
             <id>jogep</id>
             <email>jogep at apache.org</email>
             <roles>
+                <role>PMC Member</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Christian Grobmeier</name>
+            <id>grobmeier</id>
+            <email>grobmeier at apache.org</email>
+            <roles>
+                <role>PMC Member</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Christoph Nenning</name>
+            <id>cnenning</id>
+            <email>cnenning at apache.org</email>
+            <roles>
+                <role>PMC Member</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>John Lindal</name>
+            <id>jafl</id>
+            <email>jafl at apache.org</email>
+            <roles>
+                <role>Committer</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Bruce A. Phillips</name>
+            <id>bphillips</id>
+            <email>bphillips at apache.org</email>
+            <roles>
+                <role>Committer</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Greg Huber</name>
+            <id>ghuber</id>
+            <email>ghuber at apache.org</email>
+            <roles>
                 <role>Committer</role>
             </roles>
         </developer>
