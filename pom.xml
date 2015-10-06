@@ -12,9 +12,10 @@
     <name>Apache Struts</name>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/struts/maven/trunk/pom</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/struts/maven/trunk/pom</developerConnection>
-        <url>http://svn.apache.org/repos/asf/struts/maven/trunk/pom</url>
+        <connection>scm:git:git://git.apache.org/struts-master.git</connection>
+        <developerConnection>scm:git:https://git-wip-us.apache.org/repos/asf/struts-master.git</developerConnection>
+        <url>http://git.apache.org/struts-master.git</url>
+        <tag>HEAD</tag>
     </scm>
 
     <description>
