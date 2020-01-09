@@ -7,7 +7,7 @@
     </parent>
     <groupId>org.apache.struts</groupId>
     <artifactId>struts-master</artifactId>
-    <version>14</version>
+    <version>15-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Apache Struts</name>
 
@@ -15,7 +15,7 @@
         <connection>scm:git:https://gitbox.apache.org/repos/asf/struts-master.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/struts-master.git</developerConnection>
         <url>https://github.com/apache/struts-master/</url>
-        <tag>STRUTS_MASTER_14</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <description>
