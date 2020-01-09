@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
-        <version>21</version>
+        <version>22</version>
     </parent>
     <groupId>org.apache.struts</groupId>
     <artifactId>struts-master</artifactId>
@@ -331,22 +331,4 @@
             </roles>
         </developer>
     </developers>
-    <distributionManagement>
-        <site>
-            <id>apache-site</id>
-            <name>Apache Struts Website</name>
-            <url>scp://people.apache.org/www/struts.apache.org</url>
-        </site>
-    </distributionManagement>
-    <build>
-        <plugins>
-            <plugin>
-                <artifactId>maven-release-plugin</artifactId>
-                <configuration>
-                    <releaseProfiles>apache-release</releaseProfiles>
-                    <goals>deploy</goals>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 </project>
